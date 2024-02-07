@@ -7,6 +7,6 @@ Dataset utilizzato: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor
 . . .
 
 # Autori
-Roberto A. Usai  
-Marco Cipollina  
-Daniele Fenu
+<a href="https://github.com/TheRoberto2512">Roberto A. Usai</a>  
+<a href="https://github.com/Cipe96">Marco Cipollina</a>   
+<a href="https://github.com/danif95">Daniele Fenu</a>   
