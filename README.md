@@ -1,10 +1,11 @@
 # DeepBrainMRI
 Il progetto mira allo sviluppo di un sistema diagnostico per identificare e classificare tumori cerebrali attraverso immagini di risonanza magnetica. Questa innovazione potrebbe estendersi a modelli più avanzati, assistendo professionisti non solo nella diagnosi delle malattie più comuni, ma anche delle malattie più rare e complicate da diagnosticare. L'intelligenza artificiale offre un potenziale significativo nell'ambito medico, migliorando la precisione diagnostica e supportando il trattamento.   
 
-**Risorse Utili:** 
-È possibile visualizzare la presentazione finale a <a href="">questo link<a>.    
-È possibile leggere il report finale a <a href="">questo link<a>.    
-È possibile trovare il dataset originale <a href="https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset">qui</a>.
+<p align="center"><img src="https://github.com/TheRoberto2512/DeepBrainMRI/assets/70667004/ef4a5842-79d3-4c9b-8de1-8fff5fc9e8ae"></p>
+
+# Risorse Utili
+È possibile visualizzare la presentazione finale a <a href="">questo link<a> e il report finale a <a href="">questo link<a>. È inoltre possibile trovare il dataset originale <a href="https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset">qui</a>.
+Tutti i riferimenti a siti, documenti e/o persone sono riportati alla fine della relazione finale.
 
 # Installazione
 **Requisiti:**   
@@ -24,7 +25,11 @@ Il progetto mira allo sviluppo di un sistema diagnostico per identificare e clas
 
 # Struttura del progetto
 Il progetto è stato organizzato in più notebook in base ai modelli e alle operazioni da effettuare:    
-`Dataset (Download + Pre-Processing).ipynb` : permette di scaricare il dataset, analizzarlo, eseguire diversi tipi di pre-processing e salvarlo su Google Drive.
+`Dataset (Download + Pre-Processing).ipynb` : permette di scaricare il dataset, analizzarlo ed eseguire diversi tipi di pre-processing.       
+`Modello Dense.ipynb` : permette di addestrare un modello Dense e verificarne le prestazioni.     
+`Modello Convolutivo.ipynb` : permette di addestrare un modello convolutivo e verificarne le prestazioni.      
+`Modello EfficientNetV2S.ipynb` : permette di osservare le prestazioni dell'EfficientNetV2 con e senza Fine Tuning.
+`Conclusioni Finali.ipynb` : permette di mettere a confronto i vari modelli e le loro performance.
 . . .
 
 # Autori
