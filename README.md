@@ -1,3 +1,12 @@
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+
 # DeepBrainMRI
 Il progetto mira allo sviluppo di un sistema diagnostico per identificare e classificare tumori cerebrali attraverso immagini di risonanza magnetica. Questa innovazione potrebbe estendersi a modelli più avanzati, assistendo professionisti non solo nella diagnosi delle malattie più comuni, ma anche delle malattie più rare e complicate da diagnosticare. L'intelligenza artificiale offre un potenziale significativo nell'ambito medico, migliorando la precisione diagnostica e supportando il trattamento.   
 
@@ -25,12 +34,24 @@ Tutti i riferimenti a siti, documenti e/o persone sono riportati alla fine della
 
 # Struttura del progetto
 Il progetto è stato organizzato in più notebook in base ai modelli e alle operazioni da effettuare:    
-`Dataset (Download + Pre-Processing).ipynb` : permette di scaricare il dataset, analizzarlo ed eseguire diversi tipi di pre-processing.       
-`Modello Dense.ipynb` : permette di addestrare un modello Dense e verificarne le prestazioni.     
-`Modello Convolutivo.ipynb` : permette di addestrare un modello convolutivo e verificarne le prestazioni.      
-`Modello EfficientNetV2S.ipynb` : permette di osservare le prestazioni dell'EfficientNetV2 con e senza Fine Tuning.
-`Conclusioni Finali.ipynb` : permette di mettere a confronto i vari modelli e le loro performance.
-. . .
+| Nome File | Operazioni effettuabili |
+| :---: | :---: |
+| **Dataset (Download + Pre-Processing).ipynb** | Permette di scaricare il dataset, analizzarlo ed eseguire diversi tipi di pre-processing|       
+| **Modello Dense.ipynb** | Permette di addestrare un modello Dense e verificarne le prestazioni |    
+| **Modello Convolutivo.ipynb** | Permette di addestrare un modello Convolutivo e verificarne le prestazioni |     
+| **Modello EfficientNetV2S.ipynb** | Permette di osservare le prestazioni dell'EfficientNetV2 con e senza Fine Tuning |      
+| **Conclusioni Finali.ipynb** | Permette di mettere a confronto i vari modelli e le loro performance |
+
+# Librerie utilizzate
+All'interno dei notebook sono state utilizzate le seguenti librerie:
+| Nome Libreria | Utilizzo |
+| :---: | :---: |
+| `Tensorflow` e `Keras` | Per utilizzare i modelli, i layer e i tensori  |
+| `OpenDatasets` | Per il download del dataset da kaggle |
+| `Numpy` e `Pandas` | Per operazioni di processing |
+| `MatPlotLib` | Per visualizzare i dati graficamente |
+| `os` e `shutil` | Per gestire file e cartelle |
+| `PIL` | Manipolazione e salvataggio delle immagini |
 
 # Autori
 <a href="https://github.com/TheRoberto2512">Roberto A. Usai</a>  
