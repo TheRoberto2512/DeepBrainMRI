@@ -40,7 +40,7 @@ Il progetto è stato organizzato in più notebook in base ai modelli e alle oper
 | **Modello Dense.ipynb** | Permette di addestrare un modello Dense e verificarne le prestazioni |    
 | **Modello Convolutivo.ipynb** | Permette di addestrare un modello Convolutivo e verificarne le prestazioni |     
 | **Modello EfficientNetV2S.ipynb** | Permette di osservare le prestazioni dell'EfficientNetV2 con e senza Fine Tuning |      
-| **Conclusioni Finali.ipynb** | Permette di mettere a confronto i vari modelli e le loro performance |
+| **Analisi dei risultati.ipynb** | Permette di mettere a confronto i vari modelli e le loro performance |
 
 # Librerie utilizzate
 All'interno dei notebook sono state utilizzate le seguenti librerie:
@@ -51,6 +51,7 @@ All'interno dei notebook sono state utilizzate le seguenti librerie:
 | `Numpy` e `Pandas` | Per operazioni di processing |
 | `MatPlotLib` | Per visualizzare i dati graficamente |
 | `os` e `shutil` | Per gestire file e cartelle |
+| `scikitlearn` | Per le matrici di confusione |
 | `PIL` | Manipolazione e salvataggio delle immagini |
 
 # Autori
