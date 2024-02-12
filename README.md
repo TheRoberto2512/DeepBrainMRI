@@ -13,8 +13,8 @@ Il progetto mira allo sviluppo di un sistema diagnostico per identificare e clas
 <p align="center"><img src="https://github.com/TheRoberto2512/DeepBrainMRI/assets/70667004/ef4a5842-79d3-4c9b-8de1-8fff5fc9e8ae"></p>
 
 # Risorse Utili
-È possibile visualizzare la presentazione finale a <a href="">questo link<a> e il report finale a <a href="">questo link<a>. È inoltre possibile trovare il dataset originale <a href="https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset">qui</a>.
-Tutti i riferimenti a siti, documenti e/o persone sono riportati alla fine della relazione finale.
+Il report finale è consultabile a <a href="https://drive.google.com/file/d/10R7wBGUi1C4-gfKmDy9DlV3-mn4EjmI-/view?usp=sharing">questo link<a>. Si può reperire il dataset originale <a href="https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset">qui</a>. È inoltre possibile scaricare direttamente i pesi dell'EfficientNetV2S Fine Tuning a <a href="https://drive.google.com/file/d/1gOhUuTudMDyIe6SPYTvVHbb_M1fNS5de/view?usp=sharing">questo link<a>.
+Tutti i riferimenti a siti, documenti e/o persone sono riportati alla fine del report finale.
 
 # Installazione
 **Requisiti:**   
@@ -30,7 +30,7 @@ Tutti i riferimenti a siti, documenti e/o persone sono riportati alla fine della
 5) Quando verrà chiesto di caricare il file _kaggle.json_, inserire il file scariato al punto n°2;
 6) Dopo che opendatasets avrà ricevuto il file json avvierà il download del dataset. Ora è possibile pre-processarlo a propria scelta e salvarlo su Google Drive, in modo che sia facilmente accessibile agli altri notebook;     
   **NOTA**: _A causa di limitazioni di Google Drive, potrebbero essere necessari diversi minuti affinché il dataset salvato risulti visibile e accessibile dai notebook!_
-8) Una volta salvato uno o più datasets, questi saranno facilmente importabili negli altri notebook e utilizzabili con i vari modelli;
+7) Una volta salvato uno o più datasets, questi saranno facilmente importabili negli altri notebook e utilizzabili con i vari modelli.
 
 # Struttura del progetto
 Il progetto è stato organizzato in più notebook in base ai modelli e alle operazioni da effettuare:    
@@ -52,7 +52,7 @@ All'interno dei notebook sono state utilizzate le seguenti librerie:
 | `MatPlotLib` | Per visualizzare i dati graficamente |
 | `os` e `shutil` | Per gestire file e cartelle |
 | `scikitlearn` | Per le matrici di confusione |
-| `PIL` | Manipolazione e salvataggio delle immagini |
+| `PIL` | Per manipolazione e salvataggio delle immagini |
 
 # Autori
 <a href="https://github.com/TheRoberto2512">Roberto A. Usai</a>  
