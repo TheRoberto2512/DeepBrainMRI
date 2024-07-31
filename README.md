@@ -55,6 +55,6 @@ All'interno dei notebook sono state utilizzate le seguenti librerie:
 | `PIL` | Per manipolazione e salvataggio delle immagini |
 
 # Autori
-<a href="https://github.com/TheRoberto2512">Roberto A. Usai</a>  
-<a href="https://github.com/Cipe96">Marco Cipollina</a>   
-<a href="https://github.com/danif95">Daniele Fenu</a>      
+<a href="https://github.com/theroberto2512/DeepBrainMRI/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=theroberto2512/DeepBrainMRI" />
+</a>  
