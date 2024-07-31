@@ -14,7 +14,7 @@ Il progetto mira allo sviluppo di un sistema diagnostico per identificare e clas
 
 # Risorse Utili
 Il report finale è consultabile a <a href="https://drive.google.com/file/d/10R7wBGUi1C4-gfKmDy9DlV3-mn4EjmI-/view?usp=sharing">questo link<a>. Si può reperire il dataset originale <a href="https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset">qui</a>. È inoltre possibile scaricare direttamente i pesi dell'EfficientNetV2S Fine Tuning a <a href="https://drive.google.com/file/d/1gOhUuTudMDyIe6SPYTvVHbb_M1fNS5de/view?usp=sharing">questo link<a>.
-Tutti i riferimenti a siti, documenti e/o persone sono riportati alla fine del report finale.
+Tutti i riferimenti a siti, documenti e/o persone sono riportati alla fine del report finale. 
 
 # Installazione
 **Requisiti:**   
