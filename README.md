@@ -56,5 +56,5 @@ All'interno dei notebook sono state utilizzate le seguenti librerie:
 
 # Autori
 <a href="https://github.com/theroberto2512/DeepBrainMRI/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=theroberto2512/DeepBrainMRI" />
+  <img src="https://contrib.rocks/image?repo=theroberto2512/DeepBrainMRI"/>
 </a>  
